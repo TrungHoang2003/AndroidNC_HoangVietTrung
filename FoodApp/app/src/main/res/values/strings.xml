@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">FoodApp</string>
+    <string name="action_exit" translatable="false">Thoát</string>
+    <string name="name_hint" translatable="false">Tên món ăn</string>
+    <string name="description_hint" translatable="false">Mô tả</string>
+    <string name="save" translatable="false">Lưu</string>
+    <string name="edit" translatable="false">Sửa</string>
+    <string name="delete" translatable="false">Xóa</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
